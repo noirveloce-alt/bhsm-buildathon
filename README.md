@@ -1,32 +1,23 @@
 PARADOX
-You wake up in an old hotel room with no memory of how you got there.
 
-A clock on the wall reads 12:00.
+You wake in a strange hotel room, with no memory how you got there
 
-At first, everything seems normal. But as time passes, you begin to notice small things that don't feel right. A chair has moved. A book has disappeared. A painting has changed.
+A clock on the wall reads 12:00
 
-Then the clock reaches 12:02.
+At first everything seems fine, but as time goes on, you realize not everything is as it should be. A chair has been moved. A book has vanished. A painting hangs in a different place.
 
-Everything resets.
+And the clock strikes 12:02
 
-You are trapped in a two-minute time loop.
+All changes are reset, and you are trapped in a two-minute time loop.
 
-Each time the loop resets, something in the room is different. These changes are not random — they are fragments from other timelines that are beginning to overlap with your own.
+Each time you wake in the hotel room, something in it is different
 
-You soon realize that you have only one way to escape:
+But the changes are not random. As you piece together the puzzle, you discover these changes are fragments of other timelines bleeding into your own. The only way to escape the loop is to find all the changes and correct them
 
-Find what changed. Fix it. And do it before time resets.
+But every mistake spawns a paradox, and the more paradoxes you create, the more the room distorts around you
 
-Every mistake creates a paradox, making the room increasingly unstable. The more paradoxes you create, the more the room begins to distort and fall apart.
+Eventually, the changes will lead you to the mystery machine responsible for putting you in this situation in the first place!
 
-As the loops continue, the changes become stranger and more dangerous, eventually leading you to the source of the disturbance: a mysterious piece of technology that was never supposed to exist inside the room.
+The experiment has failed, and you have one final chance to restore order to the timeline
 
-The experiment that trapped you in the loop has gone wrong.
-
-Now, you have one final chance to stabilize the timeline.
-
-Observe carefully.
-
-Fix what doesn't belong.
-
-And don't let the clock reach 12:02.
+Watch closely, and you may find a way to stop the clock from reaching 12:02.
